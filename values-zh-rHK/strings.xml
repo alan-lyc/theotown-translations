@@ -555,7 +555,7 @@
     <string name="influence_noise_text">冇人願意住喺嘈嘅地區。</string>
     <string name="influence_park_text">居民生活會更有樂趣，人口密度也會增高。</string>
     <string name="influence_police_text">警察局會令犯罪率降低</string>
-    <string name="influence_pollution_text">冇人願意生活喺污染地區。</string>
+    <string name="influence_pollution_text">冇人願意住喺污染地區。</string>
     <string name="influence_religion_text">宗教會令居民變得開心。</string>
     <string name="influence_sport_text">讓你嘅居民保持健康。</string>
     <string name="draftselector_cmdShow">顯示</string>
@@ -654,7 +654,7 @@
     <string name="draft_rail00_title">鐵路</string>
     <string name="draft_rail00_text">高架鐵路。</string>
     <string name="draft_railwaystation00_title">火車站</string>
-    <string name="draft_railwaystation00_text">鐵路係減少道路交通流量嘅好方法。喺城市嘅不同區域建立車站，並使用鐵路連接佢們。</string>
+    <string name="draft_railwaystation00_text">鐵路係減少道路交通流量嘅好方法。喺城市嘅不同區域建立車站，並用鐵路路軌連接佢哋。</string>
     <string name="draft_school02_title">小型學校</string>
     <string name="draft_school02_text">村莊小學</string>
     <string name="toolremove_zone_title">刪除區域</string>
@@ -670,12 +670,12 @@
     <string name="draft_police01_text">保障社會治安，降低犯罪率</string>
     <string name="disaster_riot_title">暴動</string>
     <string name="disaster_riot_text">引發一場只能由特種部隊來平息的暴動。</string>
-    <string name="disaster_riot_cmdtext">放佢們出嚟！</string>
+    <string name="disaster_riot_cmdtext">放佢哋出嚟！</string>
     <string name="draft_beach00_title">海灘</string>
     <string name="draft_beach00_text">冇嘢比喺海灘上過一日更舒服了。</string>
     <string name="draft_biergarten00_title">啤酒花園</string>
     <string name="draft_biergarten00_text">係一個放鬆身心嘅好地方。</string>
-    <string name="notify_noreszone">有人想搬到我們嘅城市，劃分一個住宅區畀佢們啦。 </string>
+    <string name="notify_noreszone">有人想搬入我哋個城市，劃分一個住宅區畀佢哋啦。 </string>
     <string name="notify_nocomzone">劃分一個商業區以方便賣家出售他們嘅商品。</string>
     <string name="notify_noindzone">工業區幫助城市發展，快啲劃分一個工業區啦！</string>
     <string name="createcity_sizebigbigbig">特咪大</string>
@@ -686,7 +686,7 @@
     <string name="happiness_supply">供應</string>
     <string name="happiness_environment">環境</string>
     <string name="happiness_freetime">業餘時間</string>
-    <string name="notify_noroad">有些建築物冇道路連接。 我們要改變佢。</string>
+    <string name="notify_noroad">有些建築物冇道路連接。 我哋要搞下佢。</string>
     <string name="notify_water_waste">呢度嘅水污染好嚴重！</string>
     <string name="influence_management_title">管理</string>
     <string name="influence_management_text">城市管理影響力</string>
@@ -695,7 +695,7 @@
     <string name="dialog_oldmap_text">自從你創建呢個城市以後，西奧小鎮做咗一啲改動，有啲功能唔會好似以前一樣運作，請唔好嬲哦 (◕‿◕✿)</string>
     <string name="dialog_oldmap_cmdproceed">繼續</string>
     <string name="dialog_oldmap_cmdcancel">取消</string>
-    <string name="notify_bad_health">呢度嘅環境唔太好，我們需要提高環境評分，或建造一個醫院。</string>
+    <string name="notify_bad_health">呢度嘅環境唔太好，我哋需要提高環境評分，或建造一個醫院。</string>
     <string name="dialog_rename_cmdok">重新命名</string>
     <string name="dialog_rename_cmdcancel">取消</string>
     <string name="dialog_renamecity_title">重新命名城市</string>
@@ -704,7 +704,7 @@
     <string name="dialog_renamebuilding_text">輸入此建築物嘅新名稱。</string>
     <string name="happiness_police">警察</string>
     <string name="happiness_firedepartment">消防</string>
-    <string name="dialog_renameauthor_title">重命名市長</string>
+    <string name="dialog_renameauthor_title">重新命名市長</string>
     <string name="dialog_renameauthor_text">請輸入新嘅市長。</string>
     <string name="ci_general_authorname">市長：%1$s</string>
     <string name="loadcity_author">by %1$s</string>
@@ -715,7 +715,7 @@
     <string name="createcity_cityauthor">市長:</string>
     <string name="about_homepage">主頁</string>
     <string name="oome_title">儲存空間不足</string>
-    <string name="oome_text">我們非常抱歉，但係你嘅裝置上似乎唔夠儲存空間畀西奧小鎮好喎。</string>
+    <string name="oome_text">真係唔好意思，但係你嘅裝置上似乎唔夠儲存空間畀西奧小鎮好喎。</string>
     <string name="createcity_trees">帶有樹木</string>
     <string name="dialog_closecity_text">是否要在離開城市之前保存進度？</string>
     <string name="dialog_closecity_title">離開城市</string>
@@ -733,8 +733,8 @@
     <string name="roadinfo_trafficlights_on">使用紅綠燈</string>
     <string name="roadinfo_trafficlights_off">停用紅綠燈</string>
     <string name="notify_crime">呢度發生犯罪，你需要建造更多嘅警署，或者提高居民嘅滿意度。</string>
-    <string name="tutorial_buildbridge_a">為咗令交通更加流暢，我們需要改善主街，請選擇城市道路。</string>
-    <string name="tutorial_buildbridge_b">點擊規劃道路嘅起點同終點。經過水上嘅道路會自動建立橋樑，但係橋會更貴少少</string>
+    <string name="tutorial_buildbridge_a">為咗令交通更加流暢，我哋要改善主街，請選擇城市道路。</string>
+    <string name="tutorial_buildbridge_b">點擊規劃道路嘅起點同終點。經過水上嘅道路會自動建立橋樑，但係橋會貴少少</string>
     <string name="tutorial_buildbridge_c">好，樹木就到此為止了。</string>
     <string name="draft_beachnearwater00_title">海灘</string>
     <string name="draft_beachnearwater00_text">冇嘢比喺海灘上過一日更愜意嘅了。</string>
@@ -831,9 +831,9 @@
     <string name="disaster_ufo_title">不明飛行物</string>
     <string name="disaster_ufo_text">一個不明飛行物攻擊你嘅城市!</string>
     <string name="disaster_ufo_cmdtext">設定目標</string>
-    <string name="topic_theons">我們有了一種新嘅貨幣: Theons ₮</string>
+    <string name="topic_theons">我哋有一種新貨幣: Theons ₮</string>
     <string name="topic_wip">正在建設两棵蒜都會圈。 請不要通行。</string>
-    <string name="topic_belong">你嘅城市係屬於我們嘅 &gt;:D</string>
+    <string name="topic_belong">你嘅城市係屬於我哋嘅 &gt;:D</string>
     <string name="topic_love">你所需要嘅就係要。</string>
     <string name="topic_build">我要喺我嘅城市度建設高樓大廈同花園</string>
     <string name="topic_news">好消息!</string>
@@ -841,8 +841,8 @@
     <string name="topic_spoon">呢度冇勺子</string>
     <string name="topic_relax">放鬆，這只是一個遊戲</string>
     <string name="topic_cats">貓咪太可愛啦</string>
-    <string name="topic_force">願原力與你同喺</string>
-    <string name="topic_plugins"> 你可以喺https://forum.theotown.com上獲攞免費插件</string>
+    <string name="topic_force">願原力與你同在</string>
+    <string name="topic_plugins"> 你可以喺https://forum.theotown.com上獲取免費插件</string>
     <string name="topic_page">来 www.theotown.com訪問我們</string>
     <string name="topic_habitants">你可以達到 1,000,000</string>
     <string name="ci_statistics_title">統計</string>
@@ -861,7 +861,7 @@
     <string name="draft_school03_title">大型高校</string>
     <string name="draft_school03_text">一個仲大嘅高校以容納更多嘅學生。</string>
     <string name="gamemode_easy_desc">喺呢個遊戲模式中，你會喺遊戲開始得到一大筆錢以降低遊戲難度。初始資金:100 K₮ </string>
-    <string name="gamemode_middle_desc">預設遊戲模式。 你可以得到一筆金錢，用佢嚟建設你嘅夢想都市吧。初始資金: 50 K₮ </string>
+    <string name="gamemode_middle_desc">預設遊戲模式。 你會收到一筆錢，用佢嚟建設你嘅夢想城市啦。初始資金: 50 K₮ </string>
     <string name="gamemode_hard_desc">你係西奧小鎮嘅資深經營玩家？ 呢個遊戲模式適合你。 你只會得到一小筆金錢，係難度最高嘅模式。</string>
     <string name="dialog_ffwd_title">快進</string>
     <string name="dialog_ffwd_text">遊戲加速 %1$,d 日.</string>
@@ -877,7 +877,7 @@
     <string name="ci_budget_doublemoney_text">使你在%1$,d 日嘅收入加倍。</string>
     <string name="ci_budget_getmoney_title">換取 %1$s</string>
     <string name="ci_budget_getmoney_text">用呢啲鑽石嚟換取%1$s 喂。</string>
-    <string name="notify_badattribute">我們必須改進 %1$s嘅滿意度 令%2$s 搬入你嘅城市。</string>
+    <string name="notify_badattribute">我哋必須改善 %1$s嘅滿意度，令%2$s 搬入呢個城市。</string>
     <string name="game_remaining_doubleincome"> %1$,d 日雙倍收入</string>
     <string name="dialog_diamondshop_title">商店</string>
     <string name="features_notenough">唔夠 %1$s</string>
@@ -913,7 +913,7 @@
     <string name="task_firstcity_title">新城市</string>
     <string name="task_firstcity_text">歡迎來到您嘅第一個城鎮。\n\n請嘗試獲得300位居民。</string>
     <string name="task_reachrank_title">升級</string>
-    <string name="task_reachrank_text">恭喜！ 你嘅城市達到了一個新嘅等級\n\n每一個新嘅等級都會解鎖一些建築，你也會因此得到一些獎勵。</string>
+    <string name="task_reachrank_text">恭喜！ 你個城市達到了一個新嘅等級\n\n每次達到新等級都會解鎖一啲建築，你亦會收到一啲獎勵。</string>
     <string name="menu_achievements">成就</string>
     <string name="menu_leaderboards">積分榜</string>
     <string name="menu_screenshot">屏幕截圖</string>
@@ -931,15 +931,15 @@
     <string name="shop_diamonds">%1$s 鑽石%2$s</string>
     <string name="draft_townhall02_title">大型市政廳</string>
     <string name="draft_townhall02_text">一個大城市嘅大市政廳。 係對一百萬次下載量嘅感謝。</string>
-    <string name="notify_pollutedwaterpump">呢個水泵矗立喺污染區域。 我們最好將佢放喺其他地方，以保持水嘅清潔。</string>
-    <string name="notify_destroyedtiles">我們最好喺人發現之前將呢啲垃圾處理掉。</string>
-    <string name="notify_loweducationneeded">係時候畀我們嘅仔提供一些教育咗。 建造一所小學啊。</string>
-    <string name="notify_higheducationneeded">建立一所高校以便培養一些人才。</string>
-    <string name="dialog_ffwd1_text">使用 %1$s来獲取更快嘅游戲速度。</string>
+    <string name="notify_pollutedwaterpump">呢個水泵矗立喺污染區域。 我哋最好將佢放喺其他地方，以保持水嘅清潔。</string>
+    <string name="notify_destroyedtiles">我哋最好喺人發現之前將呢啲垃圾處理掉。</string>
+    <string name="notify_loweducationneeded">我哋啲小朋友都係時候要接受一下教育。 建造一間小學啦。</string>
+    <string name="notify_higheducationneeded">建立一間高校以便培養一些人才。</string>
+    <string name="dialog_ffwd1_text">用 %1$s嚟得到更快嘅遊戲速度。</string>
     <string name="notify_badtraffic">呢條路有塞車。 建議你修建更多或更好嘅道路。</string>
     <string name="dialog_wb_title">歡迎返嚟</string>
     <string name="dialog_wb_text">你唔喺度嘅時候,%1$s 賺取了 %2$s </string>
-    <string name="notify_fullschool">呢間學校已經滿咗。 請構建更多嘅學校。</string>
+    <string name="notify_fullschool">呢間學校已經滿咗。 請建造更多嘅學校。</string>
     <string name="dialog_notenoughmoney_title">唔夠錢</string>
     <string name="dialog_notenoughmoney_text">冇足夠嘅金錢可以購買呢個商品\n\n你想即刻得到所缺嘅%1$s </string>
     <string name="notify_fullhospital">呢間醫院唔夠床位。 我哋必須再建一個。</string>
@@ -948,7 +948,7 @@
     <string name="dialog_rate_cmdok">我鍾意</string>
     <string name="dialog_rate_cmdcancel">我唔鍾意</string>
     <string name="dialog_feedback_title">向我們提供反饋</string>
-    <string name="dialog_feedback_text">如果你對呢個遊戲有任何反饋和建議，請話畀我們知。</string>
+    <string name="dialog_feedback_text">如果你對呢個遊戲有任何反饋和建議，請話畀我哋知。</string>
     <string name="dialog_feedback_cmdok">提交反饋</string>
     <string name="dialog_feedback_cmdcancel">冇反饋</string>
     <string name="dialog_buildnow_title">完成</string>
@@ -963,7 +963,7 @@
     <string name="draft_mltry_missilesilo00_title">導彈發射井</string>
     <string name="draft_feature_military00_text">建立自己嘅軍事基地嚟保護你嘅城市。 包括一場不明飛行物災難。</string>
     <string name="dialog_smooth_title">光滑圖像</string>
-    <string name="dialog_smooth_text">完美！ 我們搵到咗一個提高遊戲分辨率嘅解決方案。 是否要使用佢？\n\n可以隨時喺設置中更改。</string>
+    <string name="dialog_smooth_text">完美！ 我哋搵到一個提高遊戲分辨率嘅解決方案。 要唔要用下佢？\n\n之後可以隨時喺設定度中更改。</string>
     <string name="budget_military">軍事</string>
     <string name="draftselector_monthlyincome">每月收入: %s</string>
     <string name="draft_decosmallmountain00_title">㙞</string>
@@ -1036,7 +1036,7 @@
     <string name="settings_roadautojoin">自動連接道路工具</string>
 
     <string name="tut_start00">係咪個好靚嘅地方呢？</string>
-    <string name="tut_start01">點都好，畀我們嚟建設一個大城市啦，但我們應該慢慢開始。</string>
+    <string name="tut_start01">點都好，等我哋嚟建設一個大城市啦，但我們應該慢慢開始。</string>
     <string name="tut_start02">點擊屏幕以移動地圖。 你可以使用兩根手指進行縮放。</string>
     <string name="tut_start03">好，我唸你而家對控制已經有啲感覺。 因此，我哋可以由你嘅第一個城市開始。</string>
     <string name="tut_build00">係咪好方便呢，政府已經喺呢度起咗幾條路，畀我哋免費使用。</string>
